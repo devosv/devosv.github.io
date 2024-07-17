@@ -1,3 +1,3 @@
-var posts=["p/clypowxa3000378uqb4fue1rx.html","p/clypowxa0000178uq5ktzetir.html"];function toRandomPost(){
+var posts=["p/clypps28f0000louqa5jugv0x.html","p/clypps28n0003louqcpsphhsq.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
