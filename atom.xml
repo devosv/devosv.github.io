@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>🐱os博客</title>
+  
+  <subtitle>生活明朗，万物可爱</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-07-18T09:03:56.285Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一篇新的博文</title>
+    <link href="http://example.com/p/b521d8e5e4fe.html"/>
+    <id>http://example.com/p/b521d8e5e4fe.html</id>
+    <published>2024-07-17T09:04:12.000Z</published>
+    <updated>2024-07-18T09:03:56.285Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;video-container&quot;&gt;
+[up主专用，视频内嵌代码贴在这]
+&lt;/div&gt;
+
+&lt;style&gt;
+.video-container {
+    position: relative;
+    width: 100%;
+   </summary>
+        
+      
+    
+    
+    
+    <category term="后端开发" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="paython学习" scheme="http://example.com/tags/paython%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="编程学习" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/p/a7d9601fe65e.html"/>
+    <id>http://example.com/p/a7d9601fe65e.html</id>
+    <published>2024-07-17T07:57:29.132Z</published>
+    <updated>2024-07-17T07:57:29.132Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
