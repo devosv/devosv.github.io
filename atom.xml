@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-26T08:27:10.806Z</updated>
+  <updated>2024-07-26T11:19:41.009Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,37 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>这是一篇新的博文</title>
-    <link href="http://example.com/p/b521d8e5e4fe.html"/>
-    <id>http://example.com/p/b521d8e5e4fe.html</id>
-    <published>2024-07-17T09:04:12.000Z</published>
-    <updated>2024-07-26T08:27:10.806Z</updated>
+    <title>网页暗黑模式和解除复制粘贴限制</title>
+    <link href="http://example.com/p/615e523de9e3.html"/>
+    <id>http://example.com/p/615e523de9e3.html</id>
+    <published>2024-07-26T11:08:56.000Z</published>
+    <updated>2024-07-26T11:19:41.009Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;video-container&quot;&gt;
-[up主专用，视频内嵌代码贴在这]
-&lt;/div&gt;
-
-&lt;style&gt;
-.video-container {
-    position: relative;
-    width: 100%;
-   </summary>
+    <summary type="html">&lt;p&gt;##暗黑模式JavaScript&lt;/p&gt;
+&lt;p&gt;我们经常会遇到很多网站没有适配暗黑模式，但又想简单解决网站的暗黑模式，此脚本只需要收藏到书签即可。&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
         
       
     
     
     
-    <category term="后端开发" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="python学习" scheme="http://example.com/tags/python%E5%AD%A6%E4%B9%A0/"/>
+    <category term="暗黑模式脚本" scheme="http://example.com/tags/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E8%84%9A%E6%9C%AC/"/>
     
-    <category term="编程学习" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    <category term="解除复制粘贴脚本" scheme="http://example.com/tags/%E8%A7%A3%E9%99%A4%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
