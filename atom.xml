@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-26T11:19:41.009Z</updated>
+  <updated>2024-07-26T13:50:38.597Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://example.com/p/615e523de9e3.html"/>
     <id>http://example.com/p/615e523de9e3.html</id>
     <published>2024-07-26T11:08:56.000Z</published>
-    <updated>2024-07-26T11:19:41.009Z</updated>
+    <updated>2024-07-26T13:50:38.597Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;##暗黑模式JavaScript&lt;/p&gt;
-&lt;p&gt;我们经常会遇到很多网站没有适配暗黑模式，但又想简单解决网站的暗黑模式，此脚本只需要收藏到书签即可。&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+    <summary type="html">&lt;h2 id=&quot;暗黑模式JavaScript&quot;&gt;&lt;a href=&quot;#暗黑模式JavaScript&quot; class=&quot;headerlink&quot;</summary>
         
       
     
