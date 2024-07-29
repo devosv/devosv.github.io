@@ -3,11 +3,11 @@
   <title>猫OS博客</title>
   
   <subtitle>生活明朗，万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://catos.eu.org/"/>
   <updated>2024-07-26T13:50:38.597Z</updated>
-  <id>http://example.com/</id>
+  <id>https://catos.eu.org/</id>
   
   <author>
     <name>CatOS</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>网页暗黑模式和解除复制粘贴限制</title>
-    <link href="http://example.com/p/615e523de9e3.html"/>
-    <id>http://example.com/p/615e523de9e3.html</id>
+    <link href="https://catos.eu.org/p/615e523de9e3.html"/>
+    <id>https://catos.eu.org/p/615e523de9e3.html</id>
     <published>2024-07-26T11:08:56.000Z</published>
     <updated>2024-07-26T13:50:38.597Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="前端开发" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="暗黑模式脚本" scheme="http://example.com/tags/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E8%84%9A%E6%9C%AC/"/>
+    <category term="暗黑模式脚本" scheme="https://catos.eu.org/tags/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E8%84%9A%E6%9C%AC/"/>
     
-    <category term="解除复制粘贴脚本" scheme="http://example.com/tags/%E8%A7%A3%E9%99%A4%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E8%84%9A%E6%9C%AC/"/>
+    <category term="解除复制粘贴脚本" scheme="https://catos.eu.org/tags/%E8%A7%A3%E9%99%A4%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/p/a7d9601fe65e.html"/>
-    <id>http://example.com/p/a7d9601fe65e.html</id>
+    <link href="https://catos.eu.org/p/a7d9601fe65e.html"/>
+    <id>https://catos.eu.org/p/a7d9601fe65e.html</id>
     <published>2024-07-17T07:57:29.132Z</published>
     <updated>2024-07-26T09:32:41.743Z</updated>
     
