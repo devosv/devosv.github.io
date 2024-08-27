@@ -6,7 +6,7 @@
   <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
   <link href="https://catos.eu.org/"/>
-  <updated>2024-08-01T23:16:55.269Z</updated>
+  <updated>2024-08-27T04:50:28.492Z</updated>
   <id>https://catos.eu.org/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>检测网络连通性&amp;公共DNS</title>
+    <link href="https://catos.eu.org/p/75a01f794f17.html"/>
+    <id>https://catos.eu.org/p/75a01f794f17.html</id>
+    <published>2024-08-27T03:13:10.000Z</published>
+    <updated>2024-08-27T04:50:28.492Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;服务提供者&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;链接&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;大陆体验&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;境外体验&lt;/th&gt;
+&lt;th</summary>
+        
+      
+    
+    
+    
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="测速地址" scheme="https://catos.eu.org/tags/%E6%B5%8B%E9%80%9F%E5%9C%B0%E5%9D%80/"/>
+    
+    <category term="公共DNS" scheme="https://catos.eu.org/tags/%E5%85%AC%E5%85%B1DNS/"/>
+    
+  </entry>
   
   <entry>
     <title>网页暗黑模式和解除复制粘贴限制</title>
