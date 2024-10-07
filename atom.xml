@@ -6,7 +6,7 @@
   <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
   <link href="https://catos.eu.org/"/>
-  <updated>2024-09-30T02:49:55.203Z</updated>
+  <updated>2024-10-07T04:10:06.085Z</updated>
   <id>https://catos.eu.org/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杂谈三两事情</title>
+    <link href="https://catos.eu.org/p/c97e8de5f151.html"/>
+    <id>https://catos.eu.org/p/c97e8de5f151.html</id>
+    <published>2024-10-07T04:05:53.000Z</published>
+    <updated>2024-10-07T04:10:06.085Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;杂谈两三事&quot;&gt;&lt;a href=&quot;#杂谈两三事&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>实用命令和脚本等GitHub项目</title>
