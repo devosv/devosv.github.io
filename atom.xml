@@ -6,7 +6,7 @@
   <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
   <link href="https://catos.eu.org/"/>
-  <updated>2024-10-07T04:10:06.085Z</updated>
+  <updated>2024-10-09T03:40:36.784Z</updated>
   <id>https://catos.eu.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://catos.eu.org/p/c97e8de5f151.html"/>
     <id>https://catos.eu.org/p/c97e8de5f151.html</id>
     <published>2024-10-07T04:05:53.000Z</published>
-    <updated>2024-10-07T04:10:06.085Z</updated>
+    <updated>2024-10-09T03:40:36.784Z</updated>
     
     
       
@@ -34,6 +34,10 @@
     
     
     
+    <category term="生活日常" scheme="https://catos.eu.org/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="浅思杂谈" scheme="https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -42,7 +46,7 @@
     <link href="https://catos.eu.org/p/4a06562587d1.html"/>
     <id>https://catos.eu.org/p/4a06562587d1.html</id>
     <published>2024-09-27T01:53:55.000Z</published>
-    <updated>2024-09-30T02:49:55.203Z</updated>
+    <updated>2024-10-09T03:40:38.643Z</updated>
     
     
       
@@ -55,6 +59,12 @@
     
     
     
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="GitHub项目" scheme="https://catos.eu.org/tags/GitHub%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="收藏书签" scheme="https://catos.eu.org/tags/%E6%94%B6%E8%97%8F%E4%B9%A6%E7%AD%BE/"/>
     
   </entry>
   
@@ -63,7 +73,7 @@
     <link href="https://catos.eu.org/p/35bdf8c1a9bf.html"/>
     <id>https://catos.eu.org/p/35bdf8c1a9bf.html</id>
     <published>2024-09-22T07:30:16.000Z</published>
-    <updated>2024-09-22T09:45:46.823Z</updated>
+    <updated>2024-10-09T03:40:32.566Z</updated>
     
     
       
@@ -77,6 +87,12 @@
     
     
     
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="VPS测评" scheme="https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/"/>
+    
+    <category term="德国VPS" scheme="https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/"/>
     
   </entry>
   
@@ -85,7 +101,7 @@
     <link href="https://catos.eu.org/p/2ee7c834e19c.html"/>
     <id>https://catos.eu.org/p/2ee7c834e19c.html</id>
     <published>2024-09-19T00:52:35.000Z</published>
-    <updated>2024-09-19T04:15:26.773Z</updated>
+    <updated>2024-10-09T03:40:34.959Z</updated>
     
     
       
@@ -112,7 +128,7 @@
     <link href="https://catos.eu.org/p/0b3086761943.html"/>
     <id>https://catos.eu.org/p/0b3086761943.html</id>
     <published>2024-09-19T00:52:35.000Z</published>
-    <updated>2024-09-20T04:09:13.041Z</updated>
+    <updated>2024-10-09T03:32:19.342Z</updated>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
