@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://catos.eu.org/p/0b3086761943.html</loc>
+    <loc>https://catos.eu.org/p/c97e8de5f151.html</loc>
     
     <lastmod>2024-11-24</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/p/c97e8de5f151.html</loc>
+    <loc>https://catos.eu.org/p/0b3086761943.html</loc>
     
-    <lastmod>2024-11-20</lastmod>
+    <lastmod>2024-11-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -209,20 +209,6 @@
 
   
   <url>
-    <loc>https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2024-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/</loc>
-    <lastmod>2024-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/tags/Hexo/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -237,7 +223,14 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2/</loc>
+    <loc>https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -251,14 +244,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/GitHub%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2024-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/%E6%94%B6%E8%97%8F%E4%B9%A6%E7%AD%BE/</loc>
+    <loc>https://catos.eu.org/tags/%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,6 +259,20 @@
   
   <url>
     <loc>https://catos.eu.org/tags/%E5%85%AC%E5%85%B1DNS/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/GitHub%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E6%94%B6%E8%97%8F%E4%B9%A6%E7%AD%BE/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -309,14 +309,14 @@
 
   
   <url>
-    <loc>https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <loc>https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <loc>https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
