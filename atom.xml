@@ -6,7 +6,7 @@
   <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
   <link href="https://catos.eu.org/"/>
-  <updated>2025-02-24T01:06:51.920Z</updated>
+  <updated>2025-03-04T11:31:42.490Z</updated>
   <id>https://catos.eu.org/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VPS性能测试脚本记录</title>
+    <link href="https://catos.eu.org/p/31fbb8da9fd6.html"/>
+    <id>https://catos.eu.org/p/31fbb8da9fd6.html</id>
+    <published>2025-03-04T11:27:37.000Z</published>
+    <updated>2025-03-04T11:31:42.490Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;VPS脚本&quot;&gt;&lt;a href=&quot;#VPS脚本&quot; class=&quot;headerlink&quot; title=&quot;VPS脚本&quot;&gt;&lt;/a&gt;VPS脚本&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;VPS基础信息测试脚本&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>考试专用网站</title>
