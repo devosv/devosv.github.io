@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://catos.eu.org/p/708e2629f24e.html</loc>
+    
+    <lastmod>2025-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://catos.eu.org/p/01df5e4b6175.html</loc>
     
     <lastmod>2025-03-10</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://catos.eu.org/p/31fbb8da9fd6.html</loc>
     
     <lastmod>2025-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/p/708e2629f24e.html</loc>
-    
-    <lastmod>2025-03-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -259,28 +259,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/tags/VPS%E8%84%9A%E6%9C%AC/</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,13 +280,6 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/tags/%E6%B5%8B%E9%80%9F%E5%9C%B0%E5%9D%80/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -322,6 +294,27 @@
   </url>
   
   <url>
+    <loc>https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://catos.eu.org/tags/Windows/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -330,6 +323,13 @@
   
   <url>
     <loc>https://catos.eu.org/tags/PE/</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2025-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
