@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猫OS博客</title>
+  
+  <subtitle>生活明朗，万物可爱</subtitle>
+  <link href="https://catos.eu.org/atom.xml" rel="self"/>
+  
+  <link href="https://catos.eu.org/"/>
+  <updated>2025-07-12T00:11:54.482Z</updated>
+  <id>https://catos.eu.org/</id>
+  
+  <author>
+    <name>CatOS</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的系统上恢复 Hexo 博客项目并继续更新</title>
+    <link href="https://catos.eu.org/p/3330c8d13b34.html"/>
+    <id>https://catos.eu.org/p/3330c8d13b34.html</id>
+    <published>2025-07-11T23:47:26.000Z</published>
+    <updated>2025-07-12T00:11:54.482Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、安装必要环境&quot;&gt;&lt;a href=&quot;#一、安装必要环境&quot; class=&quot;headerlink&quot; title=&quot;一、安装必要环境&quot;&gt;&lt;/a&gt;一、安装必要环境&lt;/h2&gt;&lt;p&gt;首先安装以下组件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Node.js（推荐</summary>
+        
+      
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Hexo" scheme="https://catos.eu.org/tags/Hexo/"/>
+    
+    <category term="备份博客" scheme="https://catos.eu.org/tags/%E5%A4%87%E4%BB%BD%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>To Do List</title>
+    <link href="https://catos.eu.org/p/90185523390d.html"/>
+    <id>https://catos.eu.org/p/90185523390d.html</id>
+    <published>2025-03-17T11:27:02.000Z</published>
+    <updated>2025-07-11T23:31:45.925Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="计划ing" scheme="https://catos.eu.org/tags/%E8%AE%A1%E5%88%92ing/"/>
+    
+    <category term="好玩项目" scheme="https://catos.eu.org/tags/%E5%A5%BD%E7%8E%A9%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生产力工具箱</title>
+    <link href="https://catos.eu.org/p/19297b140352.html"/>
+    <id>https://catos.eu.org/p/19297b140352.html</id>
+    <published>2025-03-08T16:30:31.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Windows" scheme="https://catos.eu.org/tags/Windows/"/>
+    
+    <category term="PE" scheme="https://catos.eu.org/tags/PE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPS性能测试脚本记录</title>
+    <link href="https://catos.eu.org/p/9489adfee189.html"/>
+    <id>https://catos.eu.org/p/9489adfee189.html</id>
+    <published>2025-03-04T19:27:37.000Z</published>
+    <updated>2025-07-11T23:31:45.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;VPS脚本&quot;&gt;&lt;a href=&quot;#VPS脚本&quot; class=&quot;headerlink&quot; title=&quot;VPS脚本&quot;&gt;&lt;/a&gt;VPS脚本&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;VPS基础信息测试脚本&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="VPS脚本" scheme="https://catos.eu.org/tags/VPS%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考试专用网站</title>
+    <link href="https://catos.eu.org/p/158a511a09e0.html"/>
+    <id>https://catos.eu.org/p/158a511a09e0.html</id>
+    <published>2025-02-24T08:36:26.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="生活日常" scheme="https://catos.eu.org/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="考试真题" scheme="https://catos.eu.org/tags/%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线上工具和网站</title>
+    <link href="https://catos.eu.org/p/e7b8da656352.html"/>
+    <id>https://catos.eu.org/p/e7b8da656352.html</id>
+    <published>2025-02-01T11:26:36.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="GitHub项目" scheme="https://catos.eu.org/tags/GitHub%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="收藏书签" scheme="https://catos.eu.org/tags/%E6%94%B6%E8%97%8F%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人文常识</title>
+    <link href="https://catos.eu.org/p/69c92f203fed.html"/>
+    <id>https://catos.eu.org/p/69c92f203fed.html</id>
+    <published>2024-11-17T16:38:38.000Z</published>
+    <updated>2025-07-11T23:31:45.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;古籍书库：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="生活日常" scheme="https://catos.eu.org/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="人文历史" scheme="https://catos.eu.org/tags/%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杂谈三两事情</title>
+    <link href="https://catos.eu.org/p/ff7305fca4e8.html"/>
+    <id>https://catos.eu.org/p/ff7305fca4e8.html</id>
+    <published>2024-10-07T12:05:53.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="生活日常" scheme="https://catos.eu.org/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="浅思杂谈" scheme="https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实用命令和脚本等GitHub项目</title>
+    <link href="https://catos.eu.org/p/ca3ccef1860b.html"/>
+    <id>https://catos.eu.org/p/ca3ccef1860b.html</id>
+    <published>2024-09-27T09:53:55.000Z</published>
+    <updated>2025-07-11T23:31:45.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Cloudflare开始灰度给所有域名启用ECH&quot;&gt;&lt;a href=&quot;#Cloudflare开始灰度给所有域名启用ECH&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="GitHub项目" scheme="https://catos.eu.org/tags/GitHub%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="收藏书签" scheme="https://catos.eu.org/tags/%E6%94%B6%E8%97%8F%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPS测评表格代码</title>
+    <link href="https://catos.eu.org/p/265ef8ef3eea.html"/>
+    <id>https://catos.eu.org/p/265ef8ef3eea.html</id>
+    <published>2024-09-22T15:30:16.000Z</published>
+    <updated>2025-07-11T23:31:45.925Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[tabs]&lt;br&gt;[tab&amp;#x3D;”YABS”]&lt;/p&gt;
+&lt;figure class=&quot;highlight clean&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="VPS测评" scheme="https://catos.eu.org/tags/VPS%E6%B5%8B%E8%AF%84/"/>
+    
+    <category term="德国VPS" scheme="https://catos.eu.org/tags/%E5%BE%B7%E5%9B%BDVPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客备份和插件更新</title>
+    <link href="https://catos.eu.org/p/0792f2fab089.html"/>
+    <id>https://catos.eu.org/p/0792f2fab089.html</id>
+    <published>2024-09-19T08:52:35.000Z</published>
+    <updated>2025-07-11T23:31:45.924Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Hexo" scheme="https://catos.eu.org/tags/Hexo/"/>
+    
+    <category term="备份博客" scheme="https://catos.eu.org/tags/%E5%A4%87%E4%BB%BD%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自用邮箱</title>
+    <link href="https://catos.eu.org/p/a055948821ee.html"/>
+    <id>https://catos.eu.org/p/a055948821ee.html</id>
+    <published>2024-09-19T08:52:35.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="生活日常" scheme="https://catos.eu.org/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="邮箱" scheme="https://catos.eu.org/tags/%E9%82%AE%E7%AE%B1/"/>
+    
+    <category term="企业邮局" scheme="https://catos.eu.org/tags/%E4%BC%81%E4%B8%9A%E9%82%AE%E5%B1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>检测网络连通性&amp;公共DNS</title>
+    <link href="https://catos.eu.org/p/0de23681fd30.html"/>
+    <id>https://catos.eu.org/p/0de23681fd30.html</id>
+    <published>2024-08-27T11:13:10.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;服务提供者&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;链接&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;大陆体验&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;境外体验&lt;/th&gt;
+&lt;th</summary>
+        
+      
+    
+    
+    
+    <category term="后端开发" scheme="https://catos.eu.org/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="测速地址" scheme="https://catos.eu.org/tags/%E6%B5%8B%E9%80%9F%E5%9C%B0%E5%9D%80/"/>
+    
+    <category term="公共DNS" scheme="https://catos.eu.org/tags/%E5%85%AC%E5%85%B1DNS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页暗黑模式和解除复制粘贴限制</title>
+    <link href="https://catos.eu.org/p/75a834ef4e0d.html"/>
+    <id>https://catos.eu.org/p/75a834ef4e0d.html</id>
+    <published>2024-07-26T19:08:56.000Z</published>
+    <updated>2025-07-11T23:31:45.926Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;暗黑模式JavaScript&quot;&gt;&lt;a href=&quot;#暗黑模式JavaScript&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="暗黑模式脚本" scheme="https://catos.eu.org/tags/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E8%84%9A%E6%9C%AC/"/>
+    
+    <category term="解除复制粘贴脚本" scheme="https://catos.eu.org/tags/%E8%A7%A3%E9%99%A4%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
+  
+</feed>
