@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/wordScenery/index.html</loc>
+    <loc>https://catos.eu.org/tags/index.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/index.html</loc>
+    <loc>https://catos.eu.org/wordScenery/index.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/p/19297b140352.html</loc>
+    <loc>https://catos.eu.org/p/e7b8da656352.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/p/e7b8da656352.html</loc>
+    <loc>https://catos.eu.org/p/19297b140352.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -382,13 +382,6 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98/</loc>
-    <lastmod>2025-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/tags/%E9%82%AE%E7%AE%B1/</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -397,6 +390,13 @@
   
   <url>
     <loc>https://catos.eu.org/tags/%E4%BC%81%E4%B8%9A%E9%82%AE%E5%B1%80/</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98/</loc>
     <lastmod>2025-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
