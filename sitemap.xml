@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/p/ff7305fca4e8.html</loc>
+    <loc>https://catos.eu.org/p/0de23681fd30.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/p/0de23681fd30.html</loc>
+    <loc>https://catos.eu.org/p/ff7305fca4e8.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -363,13 +363,6 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/tags/%E6%B5%8B%E9%80%9F%E5%9C%B0%E5%9D%80/</loc>
     <lastmod>2025-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -378,6 +371,13 @@
   
   <url>
     <loc>https://catos.eu.org/tags/%E5%85%AC%E5%85%B1DNS/</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E6%B5%85%E6%80%9D%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2025-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
