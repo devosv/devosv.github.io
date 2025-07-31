@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://catos.eu.org/p/a055948821ee.html</loc>
+    <loc>https://catos.eu.org/p/9d4f4a7ef7d6.html</loc>
     
-    <lastmod>2025-07-29</lastmod>
+    <lastmod>2025-07-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://catos.eu.org/p/e7b8da656352.html</loc>
     
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/p/a055948821ee.html</loc>
+    
+    <lastmod>2025-07-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -280,6 +289,34 @@
   
   <url>
     <loc>https://catos.eu.org/tags/%E5%A4%87%E4%BB%BD%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/serverless/</loc>
+    <lastmod>2025-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/cloudflare/</loc>
+    <lastmod>2025-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E9%82%AE%E5%B1%80/</loc>
     <lastmod>2025-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

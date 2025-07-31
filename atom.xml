@@ -6,7 +6,7 @@
   <link href="https://catos.eu.org/atom.xml" rel="self"/>
   
   <link href="https://catos.eu.org/"/>
-  <updated>2025-07-18T01:56:44.398Z</updated>
+  <updated>2025-07-31T09:05:11.160Z</updated>
   <id>https://catos.eu.org/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Serverless精优项目</title>
+    <link href="https://catos.eu.org/p/9d4f4a7ef7d6.html"/>
+    <id>https://catos.eu.org/p/9d4f4a7ef7d6.html</id>
+    <published>2025-07-31T08:57:01.000Z</published>
+    <updated>2025-07-31T09:05:11.160Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;一、邮局项目&quot;&gt;&lt;a href=&quot;#一、邮局项目&quot; class=&quot;headerlink&quot; title=&quot;一、邮局项目&quot;&gt;&lt;/a&gt;一、邮局项目&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="serverless" scheme="https://catos.eu.org/tags/serverless/"/>
+    
+    <category term="cloudflare" scheme="https://catos.eu.org/tags/cloudflare/"/>
+    
+    <category term="博客" scheme="https://catos.eu.org/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="邮局" scheme="https://catos.eu.org/tags/%E9%82%AE%E5%B1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>chrome和Firefox安装非系统盘</title>
@@ -170,7 +202,7 @@
     <link href="https://catos.eu.org/p/e7b8da656352.html"/>
     <id>https://catos.eu.org/p/e7b8da656352.html</id>
     <published>2025-02-01T11:26:36.000Z</published>
-    <updated>2025-07-26T01:46:25.924Z</updated>
+    <updated>2025-07-31T08:51:30.173Z</updated>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
@@ -364,33 +396,6 @@
     <category term="测速地址" scheme="https://catos.eu.org/tags/%E6%B5%8B%E9%80%9F%E5%9C%B0%E5%9D%80/"/>
     
     <category term="公共DNS" scheme="https://catos.eu.org/tags/%E5%85%AC%E5%85%B1DNS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网页暗黑模式和解除复制粘贴限制</title>
-    <link href="https://catos.eu.org/p/75a834ef4e0d.html"/>
-    <id>https://catos.eu.org/p/75a834ef4e0d.html</id>
-    <published>2024-07-26T19:08:56.000Z</published>
-    <updated>2025-07-11T23:31:45.926Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;暗黑模式JavaScript&quot;&gt;&lt;a href=&quot;#暗黑模式JavaScript&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="前端开发" scheme="https://catos.eu.org/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-    
-    
-    <category term="暗黑模式脚本" scheme="https://catos.eu.org/tags/%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E8%84%9A%E6%9C%AC/"/>
-    
-    <category term="解除复制粘贴脚本" scheme="https://catos.eu.org/tags/%E8%A7%A3%E9%99%A4%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
