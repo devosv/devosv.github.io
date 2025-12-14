@@ -281,6 +281,20 @@
 
   
   <url>
+    <loc>https://catos.eu.org/tags/Hexo/</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/tags/%E5%A4%87%E4%BB%BD%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://catos.eu.org/tags/serverless/</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,20 +317,6 @@
   
   <url>
     <loc>https://catos.eu.org/tags/%E9%82%AE%E5%B1%80/</loc>
-    <lastmod>2025-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/Hexo/</loc>
-    <lastmod>2025-12-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://catos.eu.org/tags/%E5%A4%87%E4%BB%BD%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2025-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
