@@ -173,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://catos.eu.org/dailyPhoto/index.html</loc>
-    
-    <lastmod>2025-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://catos.eu.org/essay/index.html</loc>
     
     <lastmod>2025-07-11</lastmod>
@@ -192,6 +183,15 @@
   
   <url>
     <loc>https://catos.eu.org/fcircle/index.html</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://catos.eu.org/dailyPhoto/index.html</loc>
     
     <lastmod>2025-07-11</lastmod>
     
